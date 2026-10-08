@@ -71,49 +71,49 @@ Welcome to the definitive curated directory of **generative AI business app crea
 
 ## 🔓 Open-Source GitHub Repositories 💻
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[n8n](https://github.com/n8n-io/n8n)** [![Stars](https://img.shields.io/github/stars/n8n-io/n8n?style=social&color=white)](https://github.com/n8n-io/n8n/stargazers)  
-  **Fair-code workflow automation platform with native AI capabilities**, Sustainable Use License. **200K+ GitHub stars** ⭐ — Visual workflow editor with 400+ native integrations, custom node building, and native AI nodes for LLM orchestration and RAG pipelines. 🔄
+  **Fair-code workflow automation platform with native AI capabilities**, Sustainable Use License. **200K+ GitHub_Stars** ⭐ — Visual workflow editor with 400+ native integrations, custom node building, and native AI nodes for LLM orchestration and RAG pipelines. 🔄
 
 - **[Dify](https://github.com/langgenius/dify)** [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers)  
-  **Open-source LLMOps platform & AI app framework**, Apache-2.0 / Sustainable License. **150K+ GitHub stars** ⭐ — Visual canvas for building agentic workflows, knowledge base RAG engines, tool execution nodes, and full model management. 🎨
+  **Open-source LLMOps platform & AI app framework**, Apache-2.0 / Sustainable License. **150K+ GitHub_Stars** ⭐ — Visual canvas for building agentic workflows, knowledge base RAG engines, tool execution nodes, and full model management. 🎨
 
 - **[Open WebUI](https://github.com/open-webui/open-webui)** [![Stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social&color=white)](https://github.com/open-webui/open-webui/stargazers)  
-  **Self-hosted AI application interface & ChatGPT alternative**, MIT licensed. **150K+ GitHub stars** ⭐ — Supports Ollama, OpenAI-compatible APIs, Model Context Protocol (MCP), web search RAG, document parsing, and enterprise RBAC. 🔒
+  **Self-hosted AI application interface & ChatGPT alternative**, MIT licensed. **150K+ GitHub_Stars** ⭐ — Supports Ollama, OpenAI-compatible APIs, Model Context Protocol (MCP), web search RAG, document parsing, and enterprise RBAC. 🔒
 
 - **[AnythingLLM](https://github.com/Mintplex-Labs/anything-llm)** [![Stars](https://img.shields.io/github/stars/Mintplex-Labs/anything-llm?style=social&color=white)](https://github.com/Mintplex-Labs/anything-llm/stargazers)  
-  **All-in-one desktop and Docker GenAI app suite**, MIT licensed. **65K+ GitHub stars** ⭐ — Turn documents, URLs, and databases into full RAG AI agents with multi-user permissions and custom model connectors. 📦
+  **All-in-one desktop and Docker GenAI app suite**, MIT licensed. **65K+ GitHub_Stars** ⭐ — Turn documents, URLs, and databases into full RAG AI agents with multi-user permissions and custom model connectors. 📦
 
 - **[Flowise](https://github.com/FlowiseAI/Flowise)** [![Stars](https://img.shields.io/github/stars/FlowiseAI/Flowise?style=social&color=white)](https://github.com/FlowiseAI/Flowise/stargazers)  
-  **Drag-and-drop LLM flow builder & agent creator**, Apache-2.0 licensed. **55K+ GitHub stars** ⭐ — UI tool to construct LangChain and LlamaIndex pipelines, multi-agent frameworks, and conversational bots. 🎯
+  **Drag-and-drop LLM flow builder & agent creator**, Apache-2.0 licensed. **55K+ GitHub_Stars** ⭐ — UI tool to construct LangChain and LlamaIndex pipelines, multi-agent frameworks, and conversational bots. 🎯
 
 - **[LibreChat](https://github.com/danny-avila/LibreChat)** [![Stars](https://img.shields.io/github/stars/danny-avila/LibreChat?style=social&color=white)](https://github.com/danny-avila/LibreChat/stargazers)  
-  **Enhanced open-source AI conversational app framework**, MIT licensed. **45K+ GitHub stars** ⭐ — Multi-model chat app supporting OpenAI, Anthropic, Gemini, local LLMs, code interpreter, and custom MCP skills. 💬
+  **Enhanced open-source AI conversational app framework**, MIT licensed. **45K+ GitHub_Stars** ⭐ — Multi-model chat app supporting OpenAI, Anthropic, Gemini, local LLMs, code interpreter, and custom MCP skills. 💬
 
 - **[ToolJet](https://github.com/ToolJet/ToolJet)** [![Stars](https://img.shields.io/github/stars/ToolJet/ToolJet?style=social&color=white)](https://github.com/ToolJet/ToolJet/stargazers)  
-  **Open-source low-code business application builder**, AGPL-3.0 licensed. **40K+ GitHub stars** ⭐ — Build internal tools with AI copilot assistance, 60+ connectors (PostgreSQL, Snowflake, REST APIs), and enterprise security. 🧰
+  **Open-source low-code business application builder**, AGPL-3.0 licensed. **40K+ GitHub_Stars** ⭐ — Build internal tools with AI copilot assistance, 60+ connectors (PostgreSQL, Snowflake, REST APIs), and enterprise security. 🧰
 
 - **[Appsmith](https://github.com/appsmithorg/appsmith)** [![Stars](https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white)](https://github.com/appsmithorg/appsmith/stargazers)  
-  **Open-source internal tool builder with AI integration**, Apache-2.0 licensed. **40K+ GitHub stars** ⭐ — Drag-and-drop UI canvas with JS actions, backend DB bindings, and built-in AI widgets for auto-generating enterprise interfaces. 🛠️
+  **Open-source internal tool builder with AI integration**, Apache-2.0 licensed. **40K+ GitHub_Stars** ⭐ — Drag-and-drop UI canvas with JS actions, backend DB bindings, and built-in AI widgets for auto-generating enterprise interfaces. 🛠️
 
 - **[MindsDB](https://github.com/mindsdb/mindsdb)** [![Stars](https://img.shields.io/github/stars/mindsdb/mindsdb?style=social&color=white)](https://github.com/mindsdb/mindsdb/stargazers)  
-  **Open-source platform for AI app generation on enterprise data**, MIT licensed. **39K+ GitHub stars** ⭐ — Connects AI models and LLMs directly to existing enterprise databases, data warehouses, and application APIs. 🧠
+  **Open-source platform for AI app generation on enterprise data**, MIT licensed. **39K+ GitHub_Stars** ⭐ — Connects AI models and LLMs directly to existing enterprise databases, data warehouses, and application APIs. 🧠
 
 - **[CopilotKit](https://github.com/CopilotKit/CopilotKit)** [![Stars](https://img.shields.io/github/stars/CopilotKit/CopilotKit?style=social&color=white)](https://github.com/CopilotKit/CopilotKit/stargazers)  
-  **Open-source React framework for embedded AI copilots**, MIT licensed. **37K+ GitHub stars** ⭐ — In-app GenAI sidebars, generative UI elements, and agentic copilots integrated directly into web application codebases. ⚛️
+  **Open-source React framework for embedded AI copilots**, MIT licensed. **37K+ GitHub_Stars** ⭐ — In-app GenAI sidebars, generative UI elements, and agentic copilots integrated directly into web application codebases. ⚛️
 
 - **[Refine](https://github.com/refinedev/refine)** [![Stars](https://img.shields.io/github/stars/refinedev/refine?style=social&color=white)](https://github.com/refinedev/refine/stargazers)  
-  **React-based headless framework for internal tools & AI apps**, MIT licensed. **35K+ GitHub stars** ⭐ — Developer-first open-source web application builder supporting REST, GraphQL, Supabase, and custom AI extensions. ⚡
+  **React-based headless framework for internal tools & AI apps**, MIT licensed. **35K+ GitHub_Stars** ⭐ — Developer-first open-source web application builder supporting REST, GraphQL, Supabase, and custom AI extensions. ⚡
 
 - **[Budibase](https://github.com/Budibase/budibase)** [![Stars](https://img.shields.io/github/stars/Budibase/budibase?style=social&color=white)](https://github.com/Budibase/budibase/stargazers)  
-  **Open-source low-code platform for CRUD & business apps**, GPL-3.0 licensed. **28K+ GitHub stars** ⭐ — Rapid business application platform with built-in database, automation flows, RBAC, and AI generation features. 🏗️
+  **Open-source low-code platform for CRUD & business apps**, GPL-3.0 licensed. **28K+ GitHub_Stars** ⭐ — Rapid business application platform with built-in database, automation flows, RBAC, and AI generation features. 🏗️
 
 - **[Activepieces](https://github.com/activepieces/activepieces)** [![Stars](https://img.shields.io/github/stars/activepieces/activepieces?style=social&color=white)](https://github.com/activepieces/activepieces/stargazers)  
-  **Open-source no-code workflow automation & AI agent platform**, MIT licensed. **24K+ GitHub stars** ⭐ — Visual workflow editor with 100+ integrations, AI pieces, and self-hosted privacy compliance. 🧩
+  **Open-source no-code workflow automation & AI agent platform**, MIT licensed. **24K+ GitHub_Stars** ⭐ — Visual workflow editor with 100+ integrations, AI pieces, and self-hosted privacy compliance. 🧩
 
 - **[ILLA Builder](https://github.com/illacloud/illa-builder)** [![Stars](https://img.shields.io/github/stars/illacloud/illa-builder?style=social&color=white)](https://github.com/illacloud/illa-builder/stargazers)  
-  **Open-source low-code tool builder with AI agent integration**, Apache-2.0 licensed. **12K+ GitHub stars** ⭐ — Drag-and-drop UI generator with AI agent execution capabilities for rapid business tool creation. 🚀
+  **Open-source low-code tool builder with AI agent integration**, Apache-2.0 licensed. **12K+ GitHub_Stars** ⭐ — Drag-and-drop UI generator with AI agent execution capabilities for rapid business tool creation. 🚀
 
 ---
 
@@ -123,7 +123,7 @@ Contributions are welcome! Follow these guidelines when submitting new GenAI app
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/update** entries in `README.md` maintaining table/list structure and formatting standards.
-3. 🔗 Include project title, official website/GitHub link, exact star count, license, pricing details, and concise description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count, license, pricing details, and concise description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your additions.
 
 ---
